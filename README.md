@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Dhanashri 👋
 
-<!--
-**dhanashribtech25/dhanashribtech25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engineering Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm an engineering student passionate about programming,
+problem-solving, and Artificial Intelligence.
+
+### 💻 What I'm Learning
+- C Programming
+- Data Structures and Algorithms (DSA)
+- Python Programming
+- Machine Learning and AI
+
+### 🚀 My Goals
+- Build practical coding projects
+- Improve my problem-solving skills
+- Explore real-world AI/ML applications
+
+### 🛠️ Technologies
+- C
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+
+### 📫 Connect with Me
+- GitHub: [@dhanashribtech25](https://github.com/dhanashribtech25)
+
+---
+⭐ Thanks for visiting my profile!
